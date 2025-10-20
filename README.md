@@ -1,7 +1,7 @@
 ### What this project is about
-Practice build a recipe website
+Practice build a recipe website from scratch
 
-### Skill Demonstrated
+### Skill demonstrated
 HTML
 
-Will decorate this website with CSS in the future. 
+Will decorate this website with CSS in the future
